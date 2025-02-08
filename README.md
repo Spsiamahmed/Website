@@ -1,8 +1,4 @@
-ABOUT
-EXPERIENCES
-PROJECTS
-SOCIALS
-RÉSUMÉ
+
 Hello, my name is
 Sp Siam Ahmed.
 I'm a full-stack software developer specialized in Next.js, React.js and Node.js, building (and occasionally designing) flawless and secure web products. Currently, I am a software developer at Bitechx (a US-based company) focused on building web-centric business products.
@@ -223,3 +219,5 @@ Developed By Sp Siam Ahmed.
 © SPSIAMAHMED 2025. All Rights Reserved.
 
 join us : spsiamahmed1111
+
+see website :https://spsiamahmed.github.io/Website
